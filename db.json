@@ -1,0 +1,16 @@
+{
+    "Students": [
+      { "id": 1,
+        "stdname": "Sony",
+        "stdemail": "sony@gmail.com" },
+
+        { "id": 2,
+        "stdname": "HArry",
+        "stdemail": "harry31@gmail.com" },
+
+        { "id": 3,
+        "stdname": "Kush",
+        "stdemail": "kushny@gmail.com" }
+    ]
+  }
+
